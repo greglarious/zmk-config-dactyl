@@ -18,7 +18,7 @@
                 &kp TAB    &kp A   &kp S     &kp D        &kp F    &kp G                 &kp H            &kp J           &kp K     &kp L     &kp SEMICOLON &kp SINGLE_QUOTE
                 &kp LSHIFT &kp Z   &kp X     &kp C        &kp V    &kp B                 &kp N            &kp M           &kp COMMA &kp DOT   &kp SLASH     &kp RSHIFT
                                    &kp COMMA &kp INS                                                                      &kp LBKT  &kp RBKT
-                &kp HOME &kp END   &kp BSPC  &kp LEFT_ALT &kp DEL  &kp LEFT_WIN          &kp PAGE_UP      &kp PAGE_DOWN   &kp RALT  &kp SPACE &kp RCTRL     &lp ENTER
+                &kp HOME &kp END   &kp BSPC  &kp LEFT_ALT &kp DEL  &kp LEFT_WIN          &kp PAGE_UP      &kp PAGE_DOWN   &kp RALT  &kp SPACE &kp RCTRL     &kp ENTER
             >;
         };
     };
